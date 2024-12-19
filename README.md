@@ -1,7 +1,5 @@
-# database-project-Ankon0048
-database-project-Ankon0048 created by GitHub Classroom
-Rental Management
-# README
+# Rental Management
+
 
 This is a README file providing an overview of the database structure and queries used in the project.
 
