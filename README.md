@@ -1,7 +1,6 @@
 # Rental Management
 
-
-This is a README file providing an overview of the database structure and queries used in the project.
+A Rental Management database project using Oracle 10G Express Edition. Implemented several SQL queries for finding information
 
 ## Database Diagram
 ![](https://github.com/DatabaseSystem19/database-project-Ankon0048/blob/main/db_Schema.jpg)
